@@ -20,8 +20,8 @@ Take some time to understand the HTML layout that our previous frontend dev has 
 ---
 
 ### Here are the deliverables:
-We want a place for users to keep track of their caloric intake.
-* Remove boiler-plate `<li>` tags and render `li.calories-list-item` elements with fetch response from backend API.
+    We want a place for users to keep track of their caloric intake.
+    * Remove boiler-plate `<li>` tags and render `li.calories-list-item` elements with fetch response from backend API.
 * A user can record a new calorie intake which will be *prepended* to the list with pessimistic rendering.
   * To keep the styling consistent, make sure the list-item you are prepending has the following format (you may add additional attributes at your discretion):
   ```html
